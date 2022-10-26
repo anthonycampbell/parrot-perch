@@ -1,7 +1,7 @@
 # Parrot Perch
 
 Parrot Perch is a single page web application which allows users to create rooms to share videos, watch streams, chat, and hang out in. 
-It was developed by myself, [Ryan Fortin](https://github.com/rfll) and [Anthony Campbell](https://github.com/anthonycampbell) over the course of about a week and a weekend.
+It was developed by myself, [Ryan Fortin](https://github.com/rfll) and [Chelsea Sachieko](https://github.com/sachieko) over the course of about a week and a weekend.
 
 ## Tech Stack
 
